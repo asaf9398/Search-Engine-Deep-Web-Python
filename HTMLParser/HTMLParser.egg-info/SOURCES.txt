@@ -1,0 +1,9 @@
+HTMLParser.py
+MANIFEST.in
+README.md
+setup.py
+HTMLParser.egg-info/PKG-INFO
+HTMLParser.egg-info/SOURCES.txt
+HTMLParser.egg-info/dependency_links.txt
+HTMLParser.egg-info/not-zip-safe
+HTMLParser.egg-info/top_level.txt
